@@ -12,5 +12,7 @@ Ultilize o commando abaixo para gerar o arquivo executável que se encontrará n
 pyinstaller --onefile --exclude-module _bootlocale -w -F timer.py
 ```
 
+OBS: configure o executável para sempre rodar em modo administrador
+
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
